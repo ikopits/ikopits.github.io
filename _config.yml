@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Henri Schmidt
-email: henri [dot] schmidt [at] princeton [dot] edu
-description: Computer Science PhD student at Princeton University.
+title: Lambda Tutoring of Princeton
+henriemail: henri@lambdatutors.com
+isabellaemail: isabella@lambdatutors.com
+phone: 609-865-6040
+description: Lambda Tutoring of Princeton
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: henrismitch
-github_username:  schmidt73
 
 # Build settings
 markdown: kramdown
