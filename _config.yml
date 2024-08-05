@@ -17,12 +17,15 @@ title: Lambda Tutoring of Princeton
 henriemail: henri@lambdatutors.com
 isabellaemail: isabella@lambdatutors.com
 phone: 609-865-6040
-description: Lambda Tutoring of Princeton
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+tagline: Lambda Tutoring of Princeton
+description: Ivy League Math, Science, and Test Preparation Tutoring Services in Princeton, New Jersey
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.lambdatutors.com" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/images/icon.svg"
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
