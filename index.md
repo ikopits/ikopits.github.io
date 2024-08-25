@@ -82,7 +82,7 @@ Isabella Kopits is a second year medical student at
 <a href="https://rwjms.rutgers.edu/">Rutgers Robert Wood Johnson Medical School</a>, where she was awarded a 
 Dean’s Scholarship. She obtained her BA from <a href="https://harvard.edu">Harvard University</a>
 with a degree in History of Science and 
-her Master's Degree from the <a href="https://www.publichealth.columbia.edu/">Mailmain School of Public Health</a> at 
+her Master's Degree from the <a href="https://www.publichealth.columbia.edu/">Mailman School of Public Health</a> at 
 <a href="https://columbia.edu">Columbia University</a>. 
 Isabella has 
 one year of tutoring experience and has previously served as 
