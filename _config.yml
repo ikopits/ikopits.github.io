@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lambda Tutoring of Princeton
+title: Lambda Tutors of Princeton
 henriemail: henri@lambdatutors.com
 isabellaemail: isabella@lambdatutors.com
 phone: 609-865-6040
