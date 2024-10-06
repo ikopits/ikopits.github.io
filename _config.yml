@@ -1,13 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -18,11 +8,12 @@ henriemail: henri@lambdatutors.com
 isabellaemail: isabella@lambdatutors.com
 phone: 609-865-6040
 tagline: Lambda Tutoring of Princeton
-description: Ivy League Math, Science, and Test Preparation Tutoring Services in Princeton, New Jersey
+description: Ivy League Math, Science, ACT, and SAT Private Tutoring Services in Princeton, New Jersey
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.lambdatutors.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/icon.svg"
-
+pages: "Home"
+page_paths: ["/home"]
 # Build settings
 markdown: kramdown
 theme: minima

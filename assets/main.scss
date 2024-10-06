@@ -3,6 +3,26 @@
 
 @import "minima";
 
+.site-header {
+    border-top: 0;
+}
+
+.is-embedded #acuity-footer {
+    display: none;
+}
+
+.site-nav .page-link {
+    text-decoration: none; /* Remove the default underline */
+    padding: 0 10px; /* Add space between the separator and text */
+    color: #333; /* Default link color */
+}
+
+/* Highlight the current page with an underline */
+.site-nav .current-page {
+    text-decoration: underline; /* Add underline for current page */
+    font-weight: bold; /* Optionally make it bold */
+}
+
 .wrapper {
     max-width: calc(1150px - (30px * 2));  /* Change this to your desired width */
     margin: 0 auto;    /* This centers the content */

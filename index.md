@@ -1,7 +1,8 @@
 ---
 layout: home
-# title: Home
-# navigation_weight: 1
+title: Home
+id: home
+navigation_weight: 1
 ---
 
 <style type="text/css">
@@ -103,16 +104,25 @@ Currently, Isabella offers tutoring and consulting in:
 <div>
 <hr style="height: 2px; border: none; color: black; background-color: black;"/>
 <h2 style="margin-top: 15px; margin-bottom: 5px;">
-Contact Information 
+Educational Philosophy 
 </h2>
 <p>
-To schedule tutoring sessions or for more information, such as a tutor's curriculum vitate (CV), 
-please reach out to tutors directly at the following email addresses:
-<ul style="font-size: 1em; margin-top: -10px; margin-bottom: 2px;">
-<li> Henri Schmidt at <a href="mailto:henri@lambdatutors.com">henri@lambdatutors.com</a></li>
-<li> Isabella Kopits at <a href="mailto:isabella@lambdatutors.com">isabella@lambdatutors.com</a></li>
-</ul>
-Pricing and packages are available upon request. Rates start at $100 per hour. 
+In the classic text on mathematical pedagogy, 
+<i>How to Solve It</i>, George P&oacute;lya writes, 
+<i>"Mathematics, you see, is not a spectator sport."</i> 
+While effective learning of course includes aspects of spectatorship, 
+e.g. in the form of lecture, we agree with P&oacute;lya that true mastery 
+of a subject follows mainly from practice. Consequently, our services
+incorporate practice throughout, with the foremost goal of teaching students 
+to trust and rely on their own reason, intuition, and abilities. 
+</p>
+<p>
+To realize the aim of practice-based learning, we first assess students' 
+strengths and areas for  growth. Once identified, we select targeted 
+problems, questions, and concepts for practice. By assisting students 
+in solving and reasoning through these problems, we help hone their intuition and problem-solving skills. 
+In this way, students develop the tools necessary for effective problem-solving 
+and self-guided learning, becoming confident individuals prepared for future challenges.
 </p>
 </div>
 
