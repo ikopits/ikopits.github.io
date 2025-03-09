@@ -27,7 +27,8 @@ Alternatively, feel free to reach out to tutors directly at the following email 
 <li> Henri Schmidt at <a href="mailto:henri@lambdatutors.com">henri@lambdatutors.com</a></li>
 <li> Isabella Kopits at <a href="mailto:isabella@lambdatutors.com">isabella@lambdatutors.com</a></li>
 </ul>
-Pricing and packages are available upon request. Rates start at $100 per hour. 
+Pricing and packages are available upon request. Rates start at $125 per hour for math and science tutoring
+and $150 per hour for SAT tutoring. Both virtual and in-person tutoring sessions are available. 
 </p>
 
 
