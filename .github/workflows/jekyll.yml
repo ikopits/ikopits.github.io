@@ -33,6 +33,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Set tag name
+        id: info
+        run: |
+          tag=toolcache
+          echo "tag=$tag" >> $GITHUB_OUTPUT
       - name: Set platform
         id: platform
         run: |
